@@ -1,7 +1,7 @@
 const { Telegraf, Markup } = require('telegraf');
 const fs = require('fs');
 const axios = require('axios');
-const BOT_TOKEN = '7898284099:AAEK_MkRO_bpTkLtxc5gTBJQlxGbvtTdqa4'; // Ganti token di sini
+const BOT_TOKEN = '7936541560:AAHPmgelEDM255AsiFw1YUYkHBE9BtjQDrc'; // Ganti token di sini
 const OWNER_ID = 5597928289;
 
 const bot = new Telegraf(BOT_TOKEN);
